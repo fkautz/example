@@ -1,4 +1,4 @@
-module github.com/coredns/example
+module github.com/fkautz/example
 
 go 1.12
 
